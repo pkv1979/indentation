@@ -1,0 +1,20 @@
+.section3__title {
+  margin-bottom: 30px;
+  font-weight: 900;
+  font-size: 36px;
+}
+
+.section3__text {
+  margin-bottom: 30px;
+  line-height: 120%;
+}
+
+.section3__image {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.section3__image:last-child {
+  margin-bottom: 0;
+}

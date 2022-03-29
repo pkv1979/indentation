@@ -1,0 +1,26 @@
+.section1__title {
+  margin-bottom: 30px;
+  font-weight: 900;
+  font-size: 36px;
+}
+
+.section1__image {
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.section1__image_float_right {
+  float: right;
+  margin-left: 40px;
+  margin-right: 0;
+}
+
+.section1__text {
+  margin-bottom: 30px;
+  line-height: 120%;
+}
+
+.section1__text:last-child {
+  margin-bottom: 0;
+}

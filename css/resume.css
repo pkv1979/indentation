@@ -1,0 +1,24 @@
+.resume__container {
+  padding: 25px 30px;
+  max-width: 1140px;
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.resume__title {
+  margin-bottom: 19px;
+  font-weight: 700;
+  font-size: 44px;
+}
+
+.resume__items {
+  margin-bottom: 29px;
+}
+
+.resume__item {
+  margin-bottom: 9px;
+}
+
+.resume__text {
+  line-height: 120%;
+}

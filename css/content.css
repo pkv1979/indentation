@@ -1,0 +1,26 @@
+.content__container {
+  padding: 25px 45px;
+  max-width: 1140px;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+}
+
+.content__title {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 44px;
+}
+
+.content__items {
+  margin: 0;
+  color: #02535f;
+  text-decoration: underline;
+}
+
+.content__item {
+  margin-bottom: 10px;
+}
+
+.content__item:last-child {
+  margin-bottom: 0;
+}
